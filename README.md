@@ -1,3 +1,3 @@
 # MovieSerachApp
-![Uploading image.png…]()
+
 
